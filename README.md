@@ -5,7 +5,7 @@ Deskripsi:
 Aplikasi yang mengelola data kategori buku perpustakaan menggunakan fitur CRUD
 
 Cara Instalasi dan menjalankan aplikasi:
-1. Clone repository https://github.com/ziyyaaa/uts-pemrograman-web-2-60324034.git
+1. Clone repository https://github.com/username/uts-pemrograman-web-2-60324034.git
 2. Pindahkan folder ke htdocs (XAMPP)
 3. Import database
    - Buka phpMyAdmin
@@ -24,3 +24,4 @@ uts_60324034/
 ├── database_backup.sql
 └── README.md
 6. Jalankan aplikasi http://localhost/uts_60324034/index.php
+7. Link repository Github https://github.com/ziyyaaa/uts-pemrograman-web-2-60324034.git
